@@ -3,8 +3,8 @@ class Lrdmem < Formula
 
   desc "Shared git-backed memory store for AI coding agents"
   homepage "https://github.com/larodiel/lrdmem"
-  url "https://files.pythonhosted.org/packages/54/99/5b8f0c60f26fedb0ec79e63d113d5adab2720b193ad95738f941260c2708/lrdmem-0.2.0.tar.gz"
-  sha256 "5ec8951765ec5bbb3a82e09c93576f8dd953598f51ecd44045391bbfd7b5f881"
+  url "https://files.pythonhosted.org/packages/2a/1c/7d150b994094cc37ae8846674b30207bdb837af985c0203c72ab7a144921/lrdmem-0.3.0.tar.gz"
+  sha256 "1ef5ce5b54ea3d7b8e975c5d819af7ff3a736fadd01a2dbaadbcc2a3d0a8041e"
   license "MIT"
 
   depends_on "python@3.13"
